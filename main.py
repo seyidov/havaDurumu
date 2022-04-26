@@ -1,5 +1,4 @@
 from tkinter import *
-from turtle import onkeypress
 from PIL import ImageTk,Image
 import requests
 
